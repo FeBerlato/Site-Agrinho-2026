@@ -22,3 +22,5 @@ REFERÊNCIAS:
 *https://www.cibra.com/noticias-agricolas/artigos-tecnicos/dicas-para-aumentar-a-produtividade/*
 
 *https://www.embrapa.br/vii-plano-diretor/agricultura-oportunidades-e-desafios*
+*Claude IA para alterar para o modo escuro*
+
